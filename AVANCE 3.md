@@ -13,4 +13,4 @@ Planeo realizar otro arbol de maxima verosimilitud  con otro programa,  y poder 
 
 Aunque siendo un analisis filogenetico las cuales la mayoria de las secuencias son bajadas de Gen Bank no se me ha ocurrido como realizar una grafica.
 
-El readme de mi proyecto se encuentra en mi Githud [link](https://github.com/NanBarcenas/Trabajo-final-BioinfRepro-2017-2/blob/master/Readme.md)
+El readme de mi proyecto se encuentra en mi Github [link](https://github.com/NanBarcenas/Trabajo-final-BioinfRepro-2017-2/blob/master/Readme.md)
